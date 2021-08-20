@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataLayer.iml" filepath="$PROJECT_DIR$/.idea/modules/DataLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/DataLayer.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/DataLayer.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/DataLayer.Wearable.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/DataLayer.Wearable.iml" />
+    </modules>
+  </component>
+</project>
